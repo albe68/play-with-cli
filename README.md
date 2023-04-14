@@ -1,7 +1,7 @@
 # play-with-cli
 It's time to change your boring CLI and play with colorful UI. This is a Command Line Game done with Node.js using some of the npm packages. A fun game if you answer one question you will be shown you are a millionaire.
 
-## EXCITED TO PLAY ?
+# EXCITED TO PLAY ?
 I'm using Node.js because it has awesome tools of other top command line tools .
 Game starts with welcome message and pops out the rules of the game and after that you have to sign in using your username and then you will be shown the that one question to make you the millionaire. If that answer is right you will be redircted to the winner's screen and BOOM . You are a developer MILLIONAIRE!! OR you will be a loser LOL. JK!!...
 
