@@ -1,4 +1,4 @@
-# play-with-cli
+`# play-with-cli`
 It's time to change your boring CLI and play with colorful UI. This is a Command Line Game done with Node.js using some of the npm packages. A fun game if you answer one question you will be shown you are a millionaire.
 
 # EXCITED TO PLAY ?
@@ -22,10 +22,5 @@ your package.json should look like this below image:-
  5. That's all now run the project with, `node .` 
 or `node.index.js` 
 
-NOW THAT's it play your game , Be the next Millionaire LOL
-1. Clone the repository: `git clone https://github.com/remindev/Nester-ECommerce.git`
-2. Create `.env` and `firebaseConfig.json` file and add necessary configurations
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
 
 
