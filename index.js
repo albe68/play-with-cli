@@ -7,7 +7,7 @@ import chalkAnimation from 'chalk-animation';
 import figlet from 'figlet';
 import {createSpinner} from 'nanospinner';
 
-console.log(chalk.bgBlueBright('Welcome Guest Player\n'))
+console.log(chalk.bgBlueBright('Welcome Guest Player !\n'))
 let playerName;
 const sleep =(ms=2000)=>new Promise((r)=>setTimeout(r,ms))
 
