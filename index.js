@@ -20,7 +20,7 @@ async function welcome(){
 
     console.log(`${chalk.bgBlue('HOW TO PLAY\n')}
     ==>${chalk.bgGreenBright('Sign in with you name\n')}
-    ==>${chalk.bgGreenBright('Answer the following question and If it is correct you will be Millionaire\n')}
+    ==>${chalk.bgGreenBright('Answer the following question and If it is correct you will be Billionaire\n')}
     ==>${chalk.bgRed(' If you  wrong you will be OUT\n')}
     
     `);
